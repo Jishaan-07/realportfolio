@@ -1,0 +1,14 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Fira Code", serif;
+
+ }
+ @tailwind base;
+@tailwind components;
+@tailwind utilities;
+.headerrhead{
+   font-size: xx-large;
+   font-weight: bolder;
+}
